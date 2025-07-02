@@ -4,7 +4,9 @@ Happune DoS v1
 Tools Happune ini dibuat untuk pentester, bukan kejahatan.
 
 Author : yallism.
-Instagram : @ilannisme                                                                                      Note: DILARANG COPY TOOLS INI!!!
+Instagram : @ilannisme
+
+Note: DILARANG COPY TOOLS INI!!!
 
 
 Cara menggunakan :
@@ -12,7 +14,7 @@ Cara menggunakan :
 1. pkg update & pkg upgrade
 2. pkg install python3
 3. pkg install git
-4. git clone https://github.com/.../...
+4. git clone https://github.com/Johanism/Happune
 5. cd Happune
 6. pkg install colorama
 7. pkg install mpv
